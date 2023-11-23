@@ -1,0 +1,119 @@
+LEVEL 1
+
+ 
+    XXXXX         XXXXXX
+      
+XXXXXXXXXXXXXXXX      XXXXXXXXXXXXXXXX
+
+
+LEVEL 2
+
+
+    XXXX                XXXX 
+
+XXXX     XXXXXXXXXXXXXXX    XXXXXXXXXXX
+
+
+LEVEL 3
+
+
+XXXXXX    XXXXXXXXXXX      XXXXXXXXXXXX
+
+      XXXX           XXXXXX
+     
+XXXXX    XXXXX       XXXXXXXXXXXXXXXXXX
+
+
+
+LEVEL 4
+
+          XXXXXXXXXXXX
+ 
+XXXXXXX                XXXXXXXX
+                          X
+          XXXXX           X
+                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXX    XXXXXXXXX
+
+
+LEVEL 5 
+
+                                   XXXXX
+                              XX   XXXXX
+                         XX   XX   XXXXX
+                    XX   XX   XX   XXXXX
+               XX   XX   XX   XX   XXXXX
+          XX   XX   XX   XX   XX   XXXXX
+     XX   XX   XX   XX   XX   XX   XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+LEVEL 6
+
+              
+             XXXXXXX
+ 
+XXXXXXXXXX             XXXXXXXXX
+                       X
+             XXX       X       XXXXXXXX
+        XX   XXX       X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+LEVEL 7
+
+
+                    
+                                         
+        XXXXXXXXXXXXXXX 
+                    XXX    XXXXXX 
+XXXXX               XXX         X
+        XXXXX       XXX         X  XXXXXXX
+                    XXX         X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+LEVEL 8
+
+
+
+
+XXXXX    XXXXX    XXXXX    XXXXX   XXXXXXX
+                                   X
+    XXXXX    XXXXX    XXXXX    XXXXX
+                                   X
+XXXXX    XXXXX    XXXXX    XXXXX   XXXXXXX
+
+
+LEVEL 9
+
+
+
+
+
+
+          XXXXXXXX
+           
+     XXXXX         XXXXX
+
+XXXXX                   XXXXXXXXXXX
+     
+     XXXXX                         XXXXXXX
+
+XXXXX              XXXXXXXXXX      XXXXXXX
+
+
+LEVEL 10
+
+
+
+
+XXXXXX   XXXXXXXXXXXXXXXXXXXXXXX
+                               X
+      XXX                      X  XXXXX
+                               X
+XXXXXX    XXXXXXXXXXXXXXXXXXXXXX  XXXXX
+                         X
+      XXX                X
+                         X          
+XXXXXX   XXXXX   XXXXX   XXXXXXXXXXXXXXXX
